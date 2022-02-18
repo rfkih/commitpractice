@@ -15,3 +15,5 @@ Melihat daftar commit dengan informasi lengkap
 
 $ git log --oneline
 Melihat daftar commit dengan informasi singkat
+
+nope
